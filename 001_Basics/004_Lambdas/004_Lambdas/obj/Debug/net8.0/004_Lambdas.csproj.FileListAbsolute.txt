@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\bin\Debug\net8.0\004_Lambdas.exe
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\bin\Debug\net8.0\004_Lambdas.deps.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\bin\Debug\net8.0\004_Lambdas.runtimeconfig.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\bin\Debug\net8.0\004_Lambdas.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\bin\Debug\net8.0\004_Lambdas.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\004_Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\004_Lambdas.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\004_Lambdas.AssemblyInfo.cs
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\004_Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\004_Lambdas.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\refint\004_Lambdas.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\004_Lambdas.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\004_Lambdas.genruntimeconfig.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Lambdas\004_Lambdas\obj\Debug\net8.0\ref\004_Lambdas.dll

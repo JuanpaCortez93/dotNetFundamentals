@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\bin\Debug\net8.0\001_Objects.exe
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\bin\Debug\net8.0\001_Objects.deps.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\bin\Debug\net8.0\001_Objects.runtimeconfig.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\bin\Debug\net8.0\001_Objects.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\bin\Debug\net8.0\001_Objects.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\001_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\001_Objects.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\001_Objects.AssemblyInfo.cs
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\001_Objects.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\001_Objects.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\refint\001_Objects.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\001_Objects.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\001_Objects.genruntimeconfig.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\001_Objects\001_Objects\obj\Debug\net8.0\ref\001_Objects.dll

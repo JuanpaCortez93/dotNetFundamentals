@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\bin\Debug\net8.0\004_Programacion_Funcional.exe
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\bin\Debug\net8.0\004_Programacion_Funcional.deps.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\bin\Debug\net8.0\004_Programacion_Funcional.runtimeconfig.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\bin\Debug\net8.0\004_Programacion_Funcional.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\bin\Debug\net8.0\004_Programacion_Funcional.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\004_Programacion_Funcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\004_Programacion_Funcional.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\004_Programacion_Funcional.AssemblyInfo.cs
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\004_Programacion_Funcional.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\004_Programacion_Funcional.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\refint\004_Programacion_Funcional.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\004_Programacion_Funcional.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\004_Programacion_Funcional.genruntimeconfig.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\004_Programacion_Funcional\004_Programacion_Funcional\obj\Debug\net8.0\ref\004_Programacion_Funcional.dll

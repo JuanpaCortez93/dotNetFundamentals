@@ -1,0 +1,6 @@
+@_004_Example4_Refactorizacion_HostAddress = http://localhost:5179
+
+GET {{_004_Example4_Refactorizacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

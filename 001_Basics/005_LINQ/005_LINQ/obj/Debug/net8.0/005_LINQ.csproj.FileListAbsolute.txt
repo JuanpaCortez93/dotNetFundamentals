@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\bin\Debug\net8.0\005_LINQ.exe
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\bin\Debug\net8.0\005_LINQ.deps.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\bin\Debug\net8.0\005_LINQ.runtimeconfig.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\bin\Debug\net8.0\005_LINQ.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\bin\Debug\net8.0\005_LINQ.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\005_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\005_LINQ.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\005_LINQ.AssemblyInfo.cs
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\005_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\005_LINQ.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\refint\005_LINQ.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\005_LINQ.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\005_LINQ.genruntimeconfig.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\005_LINQ\005_LINQ\obj\Debug\net8.0\ref\005_LINQ.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\004_Example4_Refactorizacion.props" />
+</Project>

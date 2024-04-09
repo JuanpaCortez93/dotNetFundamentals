@@ -1,0 +1,14 @@
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\bin\Debug\net8.0\002_Generics.exe
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\bin\Debug\net8.0\002_Generics.deps.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\bin\Debug\net8.0\002_Generics.runtimeconfig.json
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\bin\Debug\net8.0\002_Generics.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\bin\Debug\net8.0\002_Generics.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\002_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\002_Generics.AssemblyInfoInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\002_Generics.AssemblyInfo.cs
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\002_Generics.csproj.CoreCompileInputs.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\002_Generics.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\refint\002_Generics.dll
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\002_Generics.pdb
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\002_Generics.genruntimeconfig.cache
+C:\Users\jotha\source\repos\001_Backend\001_Basics\002_Generics\002_Generics\obj\Debug\net8.0\ref\002_Generics.dll

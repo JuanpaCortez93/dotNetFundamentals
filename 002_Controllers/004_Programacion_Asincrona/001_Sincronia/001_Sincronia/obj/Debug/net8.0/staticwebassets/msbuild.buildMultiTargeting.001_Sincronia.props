@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\001_Sincronia.props" />
+</Project>

@@ -1,0 +1,6 @@
+@_004_Example5_Complete_HostAddress = http://localhost:5188
+
+GET {{_004_Example5_Complete_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
