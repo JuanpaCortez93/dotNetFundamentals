@@ -16,7 +16,7 @@ Mastering C# and working with .NET will open doors for you in various developmen
 
 We hope this repository meets your expectations.
 
-## What you'll take in this course
+## What you'll take in this repository
 
 - Backend programming concepts
 - Most used C# fundamentals in backend development
